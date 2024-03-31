@@ -1,11 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import { useScroll } from "framer-motion";
-import { useMotionValueEvent } from "framer-motion";
 
 import DropDown from "./DropDown";
-import { AnimateSharedLayout } from "framer-motion";
 import RBC from "../images/RBC.png";
 import RBC2 from "../images/RBC-2.png";
 import RBC3 from "../images/RBC-3.png";
@@ -18,7 +15,6 @@ import airpods2 from "../images/airpods-2.png";
 import superign from "../images/superIgn.png";
 import myspotify from "../images/myspotify.png";
 import megapexels from "../images/megapexels.png";
-import { hover } from "@testing-library/user-event/dist/hover";
 
 const Projects = () => {
   return (
