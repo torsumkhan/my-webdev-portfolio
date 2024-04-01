@@ -41,13 +41,13 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={RBC} />
+                  <img src={RBC} alt="" />
                 </div>
                 <div className="img-container">
-                  <img src={RBC2} />
+                  <img src={RBC2} alt="" />
                 </div>
                 <div className="img-container">
-                  <img src={RBC3} />
+                  <img src={RBC3} alt="" />
                 </div>
               </div>
             </div>
@@ -72,10 +72,10 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={maple} />
+                  <img src={maple} alt="" />
                 </div>
                 <div className="img-container">
-                  <img src={maple2} />
+                  <img src={maple2} alt="" />
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={phonak} />
+                  <img src={phonak} alt="" />
                 </div>
               </div>
             </div>
@@ -127,7 +127,7 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={hip2save} />
+                  <img src={hip2save} alt="" />
                 </div>
               </div>
             </div>
@@ -156,10 +156,10 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={airpods} />
+                  <img src={airpods} alt="" />
                 </div>
                 <div className="img-container">
-                  <img src={airpods2} />
+                  <img src={airpods2} alt="" />
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={superign} />
+                  <img src={superign} alt="" />
                 </div>
               </div>
             </div>
@@ -207,7 +207,7 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={myspotify} />
+                  <img src={myspotify} alt="" />
                 </div>
               </div>
             </div>
@@ -229,7 +229,7 @@ const Projects = () => {
               </div>
               <div className="img-wrapper">
                 <div className="img-container">
-                  <img src={megapexels} />
+                  <img src={megapexels} alt="" />
                 </div>
               </div>
             </div>
